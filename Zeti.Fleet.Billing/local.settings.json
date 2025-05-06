@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  },
+  "Billing": {
+    "CostPerMile": 0.207,
+    "readingUrl": "https://funczetiinterviewtest.azurewebsites.net/api/vehicles/history/"
+  }
+}
